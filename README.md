@@ -37,7 +37,7 @@ I'd be glad if connect with me on
   [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouraMath&show_icons=true&theme=radical)](https://github.com/MouraMath/github-readme-stats)
  
  
-
+<!-- ![Snake animation](https://github.com/MouraMath/MouraMath/blob/output/github-contribution-grid-snake.svg) -->
  
 </div><br>
 
