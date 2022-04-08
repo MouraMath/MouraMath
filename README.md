@@ -3,7 +3,7 @@
 
 <br/>
   
-  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/"><i>Matheus Moura</i></a>, a brazilian🧉🇧🇷 Analysis and Systems Development student 👨‍🎓 and an entry-level developer👨‍💻 <br></br>Currently I'm working for a Credit Union company  
+  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank" rel="noopener noreferrer"><i>Matheus Moura</i></a>, a brazilian🧉🇧🇷 Analysis and Systems Development student 👨‍🎓 and an entry-level developer👨‍💻 <br></br>Currently I'm working for a Credit Union company  
     <br></br>
     <br></br>
 
