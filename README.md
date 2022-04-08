@@ -14,7 +14,7 @@
 
 <center> ❤️ Coding, barbecue and chimarrão🧉 <br><br>
   
-<center> 🌎 Brazil🇧🇷  <br><br>
+<center> 🌎 Brazil 🇧🇷  <br><br>
   
 I'd be glad to connect with you on
 <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank">
