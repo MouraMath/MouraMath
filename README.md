@@ -34,8 +34,11 @@ I'd be glad to connect with you on
   
   <br><br>
   
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=MouraMath&show_icons=true&theme=synthwave&&include_all_commits=true&ciunt_private=true"/>
-  <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout-compact*langs_count=5&theme=synthwave"/>
+  <div>
+    <a href = "https://github.com/MouraMath">
+    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=MouraMath&show_icons=true&theme=synthwave&&include_all_commits=true&ciunt_private=true"/>
+   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout-compact*langs_count=5&theme=synthwave"/>
+  </div>
   
  
  
