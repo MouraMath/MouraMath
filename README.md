@@ -39,7 +39,7 @@ I'd be glad to connect with you on
   
  
  
-<!-- ![Snake animation](https://github.com/MouraMath/MouraMath/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/MouraMath/MouraMath/blob/output/github-contribution-grid-snake.svg)
  
 </div><br>
 
