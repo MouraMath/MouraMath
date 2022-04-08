@@ -24,11 +24,11 @@ I'd be glad to connect with you on
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png">
+  <img align="center" alt="Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="MySql" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MongoDB" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Kafka" height="80" width="100" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png">
   
   
   
