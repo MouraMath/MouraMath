@@ -28,20 +28,17 @@ I'd be glad to connect with you on
   <img align="center" alt="Spring" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="MySql" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Kafka" height="80" width="100" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png">
+
   
   
   
-  <br><br>
+<br><br>
   
-  <div>
-    <a href = "https://github.com/MouraMath">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=MouraMath&show_icons=true&theme=synthwave&&include_all_commits=true&ciunt_private=true"/>
-   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout-compact*langs_count=5&theme=synthwave"/>
-  </div>
+<div>
+  <a href="https://github.com/MouraMath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
   
- 
- 
 ![Snake animation](https://github.com/MouraMath/MouraMath/blob/output/github-contribution-grid-snake.svg)
  
 </div><br>
