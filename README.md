@@ -12,7 +12,7 @@
 
 <center> 📚 Studying Java and its technologies <br>
 
-<center>🏫 Non-Java backend languages used for academic purposes only </center>
+<center>🏫 Non-Java backend languages used for academic purposes only <br>
 
 <center> ❤️ Coding, barbecue and chimarrão🧉 <br><br>
   
