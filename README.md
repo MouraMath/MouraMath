@@ -41,7 +41,6 @@ I'd be glad to connect with you on
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
-![Snake animation](https://github.com/mouramath/mouramath/blob/main/dist/github-contribution-grid-snake.svg)
  
 </div><br>
 
