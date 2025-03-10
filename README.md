@@ -37,10 +37,7 @@ I'd be glad to connect with you on
   
 <br><br>
   
-<div>
-  <a href="https://github.com/MouraMath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+
   
  
 </div><br>
