@@ -3,7 +3,7 @@
 
 <br/>
   
-  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank"><i>Matheus Moura</i></a>, an Analysis and Systems Development student 👨‍🎓 and an junior developer👨‍💻 <br></br>Currently I'm working for a Credit Union company  
+  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank"><i>Matheus Moura</i></a>, a junior developer 👨‍💻 and an Analysis and Systems Development student 👨‍🎓<br></br> 
     <br></br>
     <br></br>
     
@@ -37,10 +37,7 @@ I'd be glad to connect with you on
   
 <br><br>
   
-<div>
-  <a href="https://github.com/MouraMath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraMath&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+
   
  
 </div><br>
