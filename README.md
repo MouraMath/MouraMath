@@ -3,7 +3,7 @@
 
 <br/>
   
-  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank"><i>Matheus Moura</i></a>, a junior developer 👨‍💻 and an Analysis and Systems Development student 👨‍🎓<br></br> 
+  <h2 align="center"> I'm <a href="https://www.linkedin.com/in/matheus-moura-dev/" target="_blank"><i>Matheus Moura</i></a>, developer 👨‍💻 and Analysis and Systems Development student 👨‍🎓<br></br> 
     <br></br>
     <br></br>
     
